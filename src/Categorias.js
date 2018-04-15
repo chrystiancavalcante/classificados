@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link, Route } from 'react-router-dom'
+import Axios from 'axios'
 
 import Categoria from './Categoria'
 import HeaderInterno from './HeaderInterno'
